@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/72/trunk/dacapo/shared/dacapo-9.10-beta0/src/org/dacapo/parser
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/72/trunk/dacapo/shared/dacapo-9.10-beta0/src/org/dacapo/parser/Token.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/72/trunk/dacapo/shared/dacapo-9.10-beta0/src/org/dacapo/parser/TokenMgrError.java
+END
+ConfigFileTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/72/trunk/dacapo/shared/dacapo-9.10-beta0/src/org/dacapo/parser/ConfigFileTokenManager.java
+END
+ConfigFileConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/72/trunk/dacapo/shared/dacapo-9.10-beta0/src/org/dacapo/parser/ConfigFileConstants.java
+END
+SimpleCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/72/trunk/dacapo/shared/dacapo-9.10-beta0/src/org/dacapo/parser/SimpleCharStream.java
+END
+ConfigFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/72/trunk/dacapo/shared/dacapo-9.10-beta0/src/org/dacapo/parser/ConfigFile.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/72/trunk/dacapo/shared/dacapo-9.10-beta0/src/org/dacapo/parser/Config.java
+END
+ConfigFile.jj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/72/trunk/dacapo/shared/dacapo-9.10-beta0/src/org/dacapo/parser/ConfigFile.jj
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/72/trunk/dacapo/shared/dacapo-9.10-beta0/src/org/dacapo/parser/ParseException.java
+END

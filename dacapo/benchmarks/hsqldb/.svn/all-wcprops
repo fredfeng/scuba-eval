@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/214/trunk/dacapo/benchmarks/hsqldb
+END
+generic_typestatespec.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/137/trunk/dacapo/benchmarks/hsqldb/generic_typestatespec.txt
+END
+chord.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/165/trunk/dacapo/benchmarks/hsqldb/chord.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/77/trunk/dacapo/benchmarks/hsqldb/build.xml
+END
+sample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/211/trunk/dacapo/benchmarks/hsqldb/sample.txt
+END
+methods.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/127/trunk/dacapo/benchmarks/hsqldb/methods.txt
+END
+reflect.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/127/trunk/dacapo/benchmarks/hsqldb/reflect.txt
+END

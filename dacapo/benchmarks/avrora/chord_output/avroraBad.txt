@@ -1,0 +1,9 @@
+BAD...254 <clinit>:()V@java.lang.Integer
+BAD...1261 <clinit>:()V@java.lang.CharacterData00
+BAD...166 applyPattern:(Ljava/lang/String;Z)V@java.text.DecimalFormat
+BAD...102 getInstance:(Ljava/lang/String;I)Ljava/util/Currency;@java.util.Currency
+BAD...127 getInstance:(Ljava/util/Locale;)Ljava/util/Currency;@java.util.Currency
+BAD...257 initialize:(Ljava/util/Locale;)V@java.text.DecimalFormatSymbols
+BAD...173 <init>:(Ljava/util/Locale;)V@java.text.DecimalFormatSymbols
+BAD...110 toArray:()[Ljava/lang/Object;@java.util.AbstractCollection
+BAD...249 <init>:()V@java.text.DecimalFormat

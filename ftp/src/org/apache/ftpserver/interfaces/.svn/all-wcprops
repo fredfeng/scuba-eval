@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/interfaces
+END
+StatisticsObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/interfaces/StatisticsObserver.java
+END
+ConnectionManagerObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/interfaces/ConnectionManagerObserver.java
+END
+IIpRestrictor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/interfaces/IIpRestrictor.java
+END
+IConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/interfaces/IConnectionManager.java
+END
+IMessageResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/interfaces/IMessageResource.java
+END
+FileObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/interfaces/FileObserver.java
+END
+ConnectionObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/interfaces/ConnectionObserver.java
+END
+IDataConnectionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/interfaces/IDataConnectionConfig.java
+END
+IFtpConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/interfaces/IFtpConfig.java
+END
+IConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/interfaces/IConnection.java
+END
+ISocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/interfaces/ISocketFactory.java
+END
+ISsl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/interfaces/ISsl.java
+END
+IFtpStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/interfaces/IFtpStatistics.java
+END

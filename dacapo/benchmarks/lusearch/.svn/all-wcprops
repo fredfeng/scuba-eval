@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/214/trunk/dacapo/benchmarks/lusearch
+END
+methods.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/127/trunk/dacapo/benchmarks/lusearch/methods.txt
+END
+reflect.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/127/trunk/dacapo/benchmarks/lusearch/reflect.txt
+END
+generic_typestatespec.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/137/trunk/dacapo/benchmarks/lusearch/generic_typestatespec.txt
+END
+chord.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/161/trunk/dacapo/benchmarks/lusearch/chord.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/78/trunk/dacapo/benchmarks/lusearch/build.xml
+END
+sample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/211/trunk/dacapo/benchmarks/lusearch/sample.txt
+END

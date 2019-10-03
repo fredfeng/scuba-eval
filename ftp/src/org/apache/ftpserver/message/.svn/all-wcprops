@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/message
+END
+FtpStatus.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/message/FtpStatus.properties
+END
+FtpStatus_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/message/FtpStatus_en.properties
+END
+MessageResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/message/MessageResourceImpl.java
+END
+FtpStatus_zh-tw.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/message/FtpStatus_zh-tw.properties
+END

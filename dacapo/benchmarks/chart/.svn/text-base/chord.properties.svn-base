@@ -1,0 +1,7 @@
+chord.main.class=dacapo.chart.Main
+chord.class.path=data;../../shared/dacapo-2006-10-MR2/classes;classes;jar/chart.jar;jar/lowagie.jar
+chord.run.ids=0
+chord.args.0=small
+chord.args.1=default
+chord.args.2=large
+chord.ext.scope.exclude=sun.util.resources.TimeZoneNames,javax.swing.plaf.basic.BasicLookAndFeel,com.lowagie.text.pdf.GlyphList

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/90/trunk/dacapo/benchmarks/lusearch/adaptor/org/dacapo/harness
+END
+ChordHarness.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/13/trunk/dacapo/benchmarks/lusearch/adaptor/org/dacapo/harness/ChordHarness.java
+END
+Lusearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/dacapo/benchmarks/lusearch/adaptor/org/dacapo/harness/Lusearch.java
+END
+LusearchHarness.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/dacapo/benchmarks/lusearch/adaptor/org/dacapo/harness/LusearchHarness.java
+END
+MantisHarness.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/90/trunk/dacapo/benchmarks/lusearch/adaptor/org/dacapo/harness/MantisHarness.java
+END

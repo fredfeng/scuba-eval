@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/73/trunk/ftp/lib/src/commons-logging-1.0.3/org/apache/commons/logging/impl
+END
+Log4jFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/73/trunk/ftp/lib/src/commons-logging-1.0.3/org/apache/commons/logging/impl/Log4jFactory.java
+END
+LogKitLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/73/trunk/ftp/lib/src/commons-logging-1.0.3/org/apache/commons/logging/impl/LogKitLogger.java
+END
+LogFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/73/trunk/ftp/lib/src/commons-logging-1.0.3/org/apache/commons/logging/impl/LogFactoryImpl.java
+END
+SimpleLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/73/trunk/ftp/lib/src/commons-logging-1.0.3/org/apache/commons/logging/impl/SimpleLog.java
+END
+NoOpLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/73/trunk/ftp/lib/src/commons-logging-1.0.3/org/apache/commons/logging/impl/NoOpLog.java
+END
+Jdk14Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/73/trunk/ftp/lib/src/commons-logging-1.0.3/org/apache/commons/logging/impl/Jdk14Logger.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/73/trunk/ftp/lib/src/commons-logging-1.0.3/org/apache/commons/logging/impl/package.html
+END
+Log4JCategoryLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/73/trunk/ftp/lib/src/commons-logging-1.0.3/org/apache/commons/logging/impl/Log4JCategoryLog.java
+END
+Log4JLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/73/trunk/ftp/lib/src/commons-logging-1.0.3/org/apache/commons/logging/impl/Log4JLogger.java
+END

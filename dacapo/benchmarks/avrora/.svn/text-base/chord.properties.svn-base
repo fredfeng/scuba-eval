@@ -1,0 +1,8 @@
+chord.main.class=org.dacapo.harness.ChordHarness
+chord.class.path=data;../../shared/dacapo-9.12/classes;classes;jar/avrora-cvs-20091224.jar
+chord.src.path=adaptor;../../shared/dacapo-9.12/src;original/avrora/src/
+chord.run.ids=0
+chord.args.0=-s tiny avrora
+chord.args.1=-s small avrora
+chord.args.2=-s default avrora
+chord.args.3=-s large avrora

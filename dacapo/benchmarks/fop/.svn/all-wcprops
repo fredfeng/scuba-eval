@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/213/trunk/dacapo/benchmarks/fop
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/59/trunk/dacapo/benchmarks/fop/build.xml
+END
+methods.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/141/trunk/dacapo/benchmarks/fop/methods.txt
+END
+reflect.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/141/trunk/dacapo/benchmarks/fop/reflect.txt
+END
+generic_typestatespec.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/141/trunk/dacapo/benchmarks/fop/generic_typestatespec.txt
+END
+chord.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/168/trunk/dacapo/benchmarks/fop/chord.properties
+END

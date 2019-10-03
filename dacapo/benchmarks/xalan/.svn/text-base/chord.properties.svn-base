@@ -1,0 +1,8 @@
+chord.main.class=org.dacapo.harness.ChordHarness
+chord.class.path=data;../../shared/dacapo-9.12/classes;classes;jar/xalan.jar;jar/serializer.jar
+chord.src.path=adaptor;../../shared/original/dacapo-9.12/src;original/xalan-j_2_7_1/src/
+chord.run.ids=0
+chord.args.0=-s tiny xalan
+chord.args.1=-s small xalan
+chord.args.2=-s default xalan
+chord.args.3=-s large xalan

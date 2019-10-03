@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/filesystem
+END
+NativeFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/filesystem/NativeFileObject.java
+END
+OSVirtualFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/filesystem/OSVirtualFileObject.java
+END
+OSVirualFileSystemManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/filesystem/OSVirualFileSystemManager.java
+END
+OSVirualFileSystemView.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/filesystem/OSVirualFileSystemView.java
+END
+NativeFileSystemManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/filesystem/NativeFileSystemManager.java
+END
+NativeFileSystemView.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/filesystem/NativeFileSystemView.java
+END

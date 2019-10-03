@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/standard
+END
+StandardAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/standard/StandardAnalyzer.java
+END
+StandardFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/standard/StandardFilter.java
+END
+StandardTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/standard/StandardTokenizer.java
+END
+StandardTokenizerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/standard/StandardTokenizerImpl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/standard/package.html
+END
+StandardTokenizerImpl.jflex
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/standard/StandardTokenizerImpl.jflex
+END

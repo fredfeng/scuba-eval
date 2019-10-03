@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/213/trunk/dacapo/benchmarks/batik
+END
+SVG_IMAGES_CORPUS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/85/trunk/dacapo/benchmarks/batik/SVG_IMAGES_CORPUS.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/51/trunk/dacapo/benchmarks/batik/build.xml
+END
+methods.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/141/trunk/dacapo/benchmarks/batik/methods.txt
+END
+reflect.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/141/trunk/dacapo/benchmarks/batik/reflect.txt
+END
+generic_typestatespec.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/141/trunk/dacapo/benchmarks/batik/generic_typestatespec.txt
+END
+chord.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/167/trunk/dacapo/benchmarks/batik/chord.properties
+END

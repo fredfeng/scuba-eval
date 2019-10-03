@@ -1,0 +1,8 @@
+chord.main.class=org.dacapo.harness.ChordHarness
+chord.class.path=data;../../shared/dacapo-9.12/classes;classes;jar/batik-all.jar;jar/crimson-1.1.3.jar;jar/xml-apis-ext.jar
+chord.src.path=adaptor;../../shared/dacapo-9.12/src;original/batik-1.7/sources/
+chord.run.ids=0
+chord.args.0=-s tiny batik
+chord.args.1=-s small batik
+chord.args.2=-s default batik
+chord.args.3=-s large batik

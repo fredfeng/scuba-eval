@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/search/payloads
+END
+BoostingTermQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/search/payloads/BoostingTermQuery.java
+END
+PayloadSpanUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/search/payloads/PayloadSpanUtil.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/search/payloads/package.html
+END

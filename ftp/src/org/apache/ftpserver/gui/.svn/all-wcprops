@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui
+END
+IPRestrictorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/IPRestrictorPanel.java
+END
+StatisticsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/StatisticsPanel.java
+END
+PluginPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/PluginPanel.java
+END
+ConnectionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/ConnectionPanel.java
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/LICENSE.txt
+END
+ServerFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/ServerFrame.java
+END
+PluginPanelContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/PluginPanelContainer.java
+END
+FtpFileTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/FtpFileTableModel.java
+END
+logo.gif
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/logo.gif
+END
+DirectoryPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/DirectoryPanel.java
+END
+UserManagerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/UserManagerPanel.java
+END
+SpyPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/SpyPanel.java
+END
+SpyPanelContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/SpyPanelContainer.java
+END
+LoggerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/LoggerPanel.java
+END
+FilePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/FilePanel.java
+END
+DirChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/DirChooser.java
+END
+TreePluginPanelContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/TreePluginPanelContainer.java
+END
+IPRestrictorTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/IPRestrictorTable.java
+END
+FtpConnectionTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/FtpConnectionTableModel.java
+END
+RootPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/RootPanel.java
+END
+MessagePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/MessagePanel.java
+END
+GuiUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/GuiUtils.java
+END
+FtpDirectoryTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/gui/FtpDirectoryTableModel.java
+END

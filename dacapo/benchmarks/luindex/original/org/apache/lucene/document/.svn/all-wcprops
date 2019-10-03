@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/document
+END
+DateField.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/document/DateField.java
+END
+MapFieldSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/document/MapFieldSelector.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/document/Field.java
+END
+FieldSelectorResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/document/FieldSelectorResult.java
+END
+FieldSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/document/FieldSelector.java
+END
+AbstractField.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/document/AbstractField.java
+END
+Fieldable.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/document/Fieldable.java
+END
+NumberTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/document/NumberTools.java
+END
+LoadFirstFieldSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/document/LoadFirstFieldSelector.java
+END
+Document.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/document/Document.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/document/package.html
+END
+DateTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/document/DateTools.java
+END
+SetBasedFieldSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/document/SetBasedFieldSelector.java
+END

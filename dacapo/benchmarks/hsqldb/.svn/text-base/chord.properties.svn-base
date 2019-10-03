@@ -1,0 +1,7 @@
+chord.main.class=dacapo.hsqldb.Main
+chord.class.path=data;../../shared/dacapo-2006-10-MR2/classes;classes;jar/hsqldb.jar
+chord.src.path=adaptor;../../shared/dacapo-2006-10-MR2/src;original/hsqldb/src
+chord.run.ids=0
+chord.args.0=small
+chord.args.1=default
+chord.args.2=large

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/package.html
+END
+LowerCaseTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/LowerCaseTokenizer.java
+END
+KeywordTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/KeywordTokenizer.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/Token.java
+END
+TeeTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/TeeTokenFilter.java
+END
+Analyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/Analyzer.java
+END
+TokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/TokenFilter.java
+END
+WhitespaceTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/WhitespaceTokenizer.java
+END
+ISOLatin1AccentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/ISOLatin1AccentFilter.java
+END
+LengthFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/LengthFilter.java
+END
+CharArraySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/CharArraySet.java
+END
+KeywordAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/KeywordAnalyzer.java
+END
+LowerCaseFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/LowerCaseFilter.java
+END
+LetterTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/LetterTokenizer.java
+END
+StopAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/StopAnalyzer.java
+END
+StopFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/StopFilter.java
+END
+TokenStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/TokenStream.java
+END
+WordlistLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/WordlistLoader.java
+END
+SinkTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/SinkTokenizer.java
+END
+SimpleAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/SimpleAnalyzer.java
+END
+PerFieldAnalyzerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/PerFieldAnalyzerWrapper.java
+END
+WhitespaceAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/WhitespaceAnalyzer.java
+END
+CachingTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/CachingTokenFilter.java
+END
+CharTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/CharTokenizer.java
+END
+PorterStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/PorterStemmer.java
+END
+PorterStemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/PorterStemFilter.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/analysis/Tokenizer.java
+END

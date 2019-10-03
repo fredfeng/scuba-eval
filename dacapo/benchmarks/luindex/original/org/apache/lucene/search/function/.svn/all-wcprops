@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/search/function
+END
+FieldCacheSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/search/function/FieldCacheSource.java
+END
+ByteFieldSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/search/function/ByteFieldSource.java
+END
+OrdFieldSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/search/function/OrdFieldSource.java
+END
+FloatFieldSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/search/function/FloatFieldSource.java
+END
+CustomScoreQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/search/function/CustomScoreQuery.java
+END
+ValueSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/search/function/ValueSource.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/search/function/package.html
+END
+IntFieldSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/search/function/IntFieldSource.java
+END
+ValueSourceQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/search/function/ValueSourceQuery.java
+END
+ShortFieldSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/search/function/ShortFieldSource.java
+END
+DocValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/search/function/DocValues.java
+END
+ReverseOrdFieldSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/search/function/ReverseOrdFieldSource.java
+END
+FieldScoreQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/search/function/FieldScoreQuery.java
+END

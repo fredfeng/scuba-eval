@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/73/trunk/weblech-0.0.3/src/weblech/spider
+END
+URLObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/73/trunk/weblech-0.0.3/src/weblech/spider/URLObject.java
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/73/trunk/weblech-0.0.3/src/weblech/spider/README.txt
+END
+DownloadQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/73/trunk/weblech-0.0.3/src/weblech/spider/DownloadQueue.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/73/trunk/weblech-0.0.3/src/weblech/spider/Constants.java
+END
+SpiderConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/73/trunk/weblech-0.0.3/src/weblech/spider/SpiderConfig.java
+END
+URLGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/73/trunk/weblech-0.0.3/src/weblech/spider/URLGetter.java
+END
+URLToDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/73/trunk/weblech-0.0.3/src/weblech/spider/URLToDownload.java
+END
+HTMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/73/trunk/weblech-0.0.3/src/weblech/spider/HTMLParser.java
+END
+DumbAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/trunk/weblech-0.0.3/src/weblech/spider/DumbAuthenticator.java
+END
+Spider.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/73/trunk/weblech-0.0.3/src/weblech/spider/Spider.java
+END

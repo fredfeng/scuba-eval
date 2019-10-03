@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/112/trunk/dacapo/benchmarks/lusearch/original
+END
+lucene-2.4.1-src.zip
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/112/trunk/dacapo/benchmarks/lusearch/original/lucene-2.4.1-src.zip
+END
+lusearch.zip
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/dacapo/benchmarks/lusearch/original/lusearch.zip
+END
+lusearch.cnf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/dacapo/benchmarks/lusearch/original/lusearch.cnf
+END

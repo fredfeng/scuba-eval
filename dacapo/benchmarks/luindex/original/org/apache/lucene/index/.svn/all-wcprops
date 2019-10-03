@@ -1,0 +1,737 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index
+END
+DocumentsWriterThreadState.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DocumentsWriterThreadState.java
+END
+FreqProxTermsWriterPerField.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/FreqProxTermsWriterPerField.java
+END
+FieldsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/FieldsReader.java
+END
+RawPostingList.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/RawPostingList.java
+END
+IndexCommitPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/IndexCommitPoint.java
+END
+InvertedDocConsumerPerField.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/InvertedDocConsumerPerField.java
+END
+TermsHashPerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermsHashPerThread.java
+END
+StoredFieldsWriterPerField.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/StoredFieldsWriterPerField.java
+END
+TermVectorsTermsWriterPerField.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermVectorsTermsWriterPerField.java
+END
+MultiSegmentReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/MultiSegmentReader.java
+END
+TermBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermBuffer.java
+END
+SegmentTermPositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/SegmentTermPositions.java
+END
+FieldsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/FieldsWriter.java
+END
+CheckIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/CheckIndex.java
+END
+LogDocMergePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/LogDocMergePolicy.java
+END
+Term.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/Term.java
+END
+ByteBlockPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/ByteBlockPool.java
+END
+TermFreqVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermFreqVector.java
+END
+StaleReaderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/StaleReaderException.java
+END
+SegmentTermEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/SegmentTermEnum.java
+END
+MergePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/MergePolicy.java
+END
+PositionBasedTermVectorMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/PositionBasedTermVectorMapper.java
+END
+ReadOnlySegmentReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/ReadOnlySegmentReader.java
+END
+StoredFieldsWriterPerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/StoredFieldsWriterPerThread.java
+END
+DocFieldConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DocFieldConsumer.java
+END
+TermInfosReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermInfosReader.java
+END
+IndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/IndexReader.java
+END
+MultipleTermPositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/MultipleTermPositions.java
+END
+SegmentMergeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/SegmentMergeInfo.java
+END
+TermsHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermsHash.java
+END
+DocumentsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DocumentsWriter.java
+END
+ReadOnlyMultiSegmentReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/ReadOnlyMultiSegmentReader.java
+END
+MergeScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/MergeScheduler.java
+END
+TermVectorMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermVectorMapper.java
+END
+DocFieldConsumerPerField.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DocFieldConsumerPerField.java
+END
+FilterIndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/FilterIndexReader.java
+END
+SegmentTermDocs.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/SegmentTermDocs.java
+END
+TermInfosWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermInfosWriter.java
+END
+TermVectorEntryFreqSortedComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermVectorEntryFreqSortedComparator.java
+END
+SegmentMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/SegmentMerger.java
+END
+IndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/IndexWriter.java
+END
+CorruptIndexException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/CorruptIndexException.java
+END
+InvertedDocEndConsumerPerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/InvertedDocEndConsumerPerThread.java
+END
+DocFieldProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DocFieldProcessor.java
+END
+TermsHashPerField.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermsHashPerField.java
+END
+TermsHashConsumerPerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermsHashConsumerPerThread.java
+END
+ReusableStringReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/ReusableStringReader.java
+END
+TermVectorEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermVectorEntry.java
+END
+IndexFileNameFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/IndexFileNameFilter.java
+END
+SortedTermVectorMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/SortedTermVectorMapper.java
+END
+DocConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DocConsumer.java
+END
+CharBlockPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/CharBlockPool.java
+END
+FieldInfos.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/FieldInfos.java
+END
+TermInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermInfo.java
+END
+DocFieldProcessorPerField.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DocFieldProcessorPerField.java
+END
+TermVectorsTermsWriterPerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermVectorsTermsWriterPerThread.java
+END
+DocInverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DocInverter.java
+END
+SegmentReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/SegmentReader.java
+END
+IndexModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/IndexModifier.java
+END
+MultiLevelSkipListReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/MultiLevelSkipListReader.java
+END
+NormsWriterPerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/NormsWriterPerThread.java
+END
+IndexFileNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/IndexFileNames.java
+END
+NormsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/NormsWriter.java
+END
+TermEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermEnum.java
+END
+SerialMergeScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/SerialMergeScheduler.java
+END
+FieldInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/FieldInfo.java
+END
+DocInverterPerField.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DocInverterPerField.java
+END
+IntBlockPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/IntBlockPool.java
+END
+LogByteSizeMergePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/LogByteSizeMergePolicy.java
+END
+SegmentInfos.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/SegmentInfos.java
+END
+MultiLevelSkipListWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/MultiLevelSkipListWriter.java
+END
+NormsWriterPerField.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/NormsWriterPerField.java
+END
+DocFieldConsumers.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DocFieldConsumers.java
+END
+TermsHashConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermsHashConsumer.java
+END
+IndexDeletionPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/IndexDeletionPolicy.java
+END
+IndexFileDeleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/IndexFileDeleter.java
+END
+MultiReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/MultiReader.java
+END
+TermVectorOffsetInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermVectorOffsetInfo.java
+END
+FreqProxTermsWriterPerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/FreqProxTermsWriterPerThread.java
+END
+ParallelReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/ParallelReader.java
+END
+TermPositionVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermPositionVector.java
+END
+TermPositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermPositions.java
+END
+IndexCommit.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/IndexCommit.java
+END
+TermDocs.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermDocs.java
+END
+InvertedDocConsumerPerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/InvertedDocConsumerPerThread.java
+END
+DocFieldConsumersPerField.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DocFieldConsumersPerField.java
+END
+DocInverterPerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DocInverterPerThread.java
+END
+FieldSortedTermVectorMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/FieldSortedTermVectorMapper.java
+END
+DocFieldConsumerPerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DocFieldConsumerPerThread.java
+END
+TermsHashConsumerPerField.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermsHashConsumerPerField.java
+END
+FieldReaderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/FieldReaderException.java
+END
+SegmentMergeQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/SegmentMergeQueue.java
+END
+KeepOnlyLastCommitDeletionPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/KeepOnlyLastCommitDeletionPolicy.java
+END
+BufferedDeletes.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/BufferedDeletes.java
+END
+Payload.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/Payload.java
+END
+DefaultSkipListReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DefaultSkipListReader.java
+END
+FreqProxFieldMergeState.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/FreqProxFieldMergeState.java
+END
+MergeDocIDRemapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/MergeDocIDRemapper.java
+END
+TermVectorsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermVectorsReader.java
+END
+ConcurrentMergeScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/ConcurrentMergeScheduler.java
+END
+SegmentTermPositionVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/SegmentTermPositionVector.java
+END
+SnapshotDeletionPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/SnapshotDeletionPolicy.java
+END
+DefaultSkipListWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DefaultSkipListWriter.java
+END
+ByteSliceReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/ByteSliceReader.java
+END
+CompoundFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/CompoundFileReader.java
+END
+DocFieldConsumersPerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DocFieldConsumersPerThread.java
+END
+DocFieldProcessorPerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DocFieldProcessorPerThread.java
+END
+InvertedDocEndConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/InvertedDocEndConsumer.java
+END
+TermVectorsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermVectorsWriter.java
+END
+SegmentTermVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/SegmentTermVector.java
+END
+SegmentInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/SegmentInfo.java
+END
+FreqProxTermsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/FreqProxTermsWriter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/package.html
+END
+DirectoryIndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DirectoryIndexReader.java
+END
+ByteSliceWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/ByteSliceWriter.java
+END
+DocConsumerPerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/DocConsumerPerThread.java
+END
+LogMergePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/LogMergePolicy.java
+END
+CompoundFileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/CompoundFileWriter.java
+END
+InvertedDocConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/InvertedDocConsumer.java
+END
+InvertedDocEndConsumerPerField.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/InvertedDocEndConsumerPerField.java
+END
+StoredFieldsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/StoredFieldsWriter.java
+END
+TermVectorsTermsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/index/TermVectorsTermsWriter.java
+END

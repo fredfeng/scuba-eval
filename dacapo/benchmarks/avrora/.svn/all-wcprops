@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/216/trunk/dacapo/benchmarks/avrora
+END
+chord.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/166/trunk/dacapo/benchmarks/avrora/chord.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/77/trunk/dacapo/benchmarks/avrora/build.xml
+END
+sample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/211/trunk/dacapo/benchmarks/avrora/sample.txt
+END
+methods.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/216/trunk/dacapo/benchmarks/avrora/methods.txt
+END
+reflect.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/216/trunk/dacapo/benchmarks/avrora/reflect.txt
+END
+generic_typestatespec.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/141/trunk/dacapo/benchmarks/avrora/generic_typestatespec.txt
+END

@@ -1,0 +1,64 @@
+10
+
+dir
+219
+http://pjbench.googlecode.com/svn/trunk/dacapo/benchmarks
+http://pjbench.googlecode.com/svn
+
+
+
+2013-11-09T02:27:16.942399Z
+216
+xinzhangsjtu1989@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e5b35f1c-0c2b-11df-9441-b1846cd9856d
+
+antlr
+dir
+
+pmd
+dir
+
+bloat
+dir
+
+chart
+dir
+
+xalan
+dir
+
+fop
+dir
+
+lusearch
+dir
+
+luindex
+dir
+
+avrora
+dir
+
+batik
+dir
+
+sunflow
+dir
+
+hsqldb
+dir
+

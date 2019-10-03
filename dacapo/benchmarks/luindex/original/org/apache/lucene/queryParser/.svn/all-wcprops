@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/queryParser
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/queryParser/package.html
+END
+QueryParserTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/queryParser/QueryParserTokenManager.java
+END
+QueryParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/queryParser/QueryParserConstants.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/queryParser/Token.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/queryParser/TokenMgrError.java
+END
+MultiFieldQueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/queryParser/MultiFieldQueryParser.java
+END
+QueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/queryParser/QueryParser.java
+END
+QueryParser.jj
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/queryParser/QueryParser.jj
+END
+FastCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/queryParser/FastCharStream.java
+END
+CharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/queryParser/CharStream.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/22/trunk/dacapo/benchmarks/luindex/original/org/apache/lucene/queryParser/ParseException.java
+END

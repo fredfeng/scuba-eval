@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/usermanager
+END
+BaseUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/usermanager/BaseUser.java
+END
+LdapUserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/usermanager/LdapUserManager.java
+END
+DbUserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/usermanager/DbUserManager.java
+END
+PropertiesUserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/usermanager/PropertiesUserManager.java
+END

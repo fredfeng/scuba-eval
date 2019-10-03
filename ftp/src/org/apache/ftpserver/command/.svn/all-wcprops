@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command
+END
+LANG.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/LANG.java
+END
+RNTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/RNTO.java
+END
+QUIT.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/QUIT.java
+END
+ABOR.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/ABOR.java
+END
+PORT.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/PORT.java
+END
+MODE.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/MODE.java
+END
+OPTS.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/OPTS.java
+END
+STOU.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/STOU.java
+END
+OPTS_UTF8.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/OPTS_UTF8.java
+END
+CDUP.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/CDUP.java
+END
+STRU.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/STRU.java
+END
+SITE_ZONE.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/SITE_ZONE.java
+END
+SITE_STAT.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/SITE_STAT.java
+END
+MLSD.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/MLSD.java
+END
+SITE_DESCUSER.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/SITE_DESCUSER.java
+END
+SYST.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/SYST.java
+END
+SITE.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/SITE.java
+END
+PASS.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/PASS.java
+END
+RNFR.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/RNFR.java
+END
+ACCT.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/ACCT.java
+END
+EPRT.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/EPRT.java
+END
+SIZE.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/SIZE.java
+END
+STAT.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/STAT.java
+END
+SITE_HELP.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/SITE_HELP.java
+END
+EPSV.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/EPSV.java
+END
+PBSZ.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/PBSZ.java
+END
+MLST.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/MLST.java
+END
+FEAT.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/FEAT.java
+END
+NLST.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/NLST.java
+END
+TYPE.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/TYPE.java
+END
+SITE_WHO.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/SITE_WHO.java
+END
+RMD.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/RMD.java
+END
+PROT.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/PROT.java
+END
+OPTS_MLST.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/OPTS_MLST.java
+END
+APPE.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/APPE.java
+END
+STOR.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/STOR.java
+END
+HELP.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/HELP.java
+END
+PWD.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/PWD.java
+END
+REIN.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/REIN.java
+END
+AUTH.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/AUTH.java
+END
+MDTM.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/MDTM.java
+END
+PASV.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/PASV.java
+END
+DELE.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/DELE.java
+END
+NOOP.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/NOOP.java
+END
+MKD.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/MKD.java
+END
+LIST.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/LIST.java
+END
+RETR.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/RETR.java
+END
+CWD.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/CWD.java
+END
+REST.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/REST.java
+END
+USER.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/command/USER.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/213/trunk/dacapo/benchmarks/xalan
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/140/trunk/dacapo/benchmarks/xalan/build.xml
+END
+methods.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/141/trunk/dacapo/benchmarks/xalan/methods.txt
+END
+reflect.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/141/trunk/dacapo/benchmarks/xalan/reflect.txt
+END
+generic_typestatespec.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/141/trunk/dacapo/benchmarks/xalan/generic_typestatespec.txt
+END
+chord.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/168/trunk/dacapo/benchmarks/xalan/chord.properties
+END

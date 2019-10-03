@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/18/trunk/dacapo/shared/dacapo-9.12/src/org/dacapo/harness
+END
+Slice.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/dacapo/shared/dacapo-9.12/src/org/dacapo/harness/Slice.java
+END
+FileDigest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/dacapo/shared/dacapo-9.12/src/org/dacapo/harness/FileDigest.java
+END
+Digest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/dacapo/shared/dacapo-9.12/src/org/dacapo/harness/Digest.java
+END
+TestHarness.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/dacapo/shared/dacapo-9.12/src/org/dacapo/harness/TestHarness.java
+END
+Matcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/dacapo/shared/dacapo-9.12/src/org/dacapo/harness/Matcher.java
+END
+CommandLineArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/dacapo/shared/dacapo-9.12/src/org/dacapo/harness/CommandLineArgs.java
+END
+LatexDescriptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/dacapo/shared/dacapo-9.12/src/org/dacapo/harness/LatexDescriptions.java
+END
+DacapoClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/dacapo/shared/dacapo-9.12/src/org/dacapo/harness/DacapoClassLoader.java
+END
+TeePrintStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/dacapo/shared/dacapo-9.12/src/org/dacapo/harness/TeePrintStream.java
+END
+DacapoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/dacapo/shared/dacapo-9.12/src/org/dacapo/harness/DacapoException.java
+END
+TeeOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/dacapo/shared/dacapo-9.12/src/org/dacapo/harness/TeeOutputStream.java
+END
+Benchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/18/trunk/dacapo/shared/dacapo-9.12/src/org/dacapo/harness/Benchmark.java
+END
+Callback.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/dacapo/shared/dacapo-9.12/src/org/dacapo/harness/Callback.java
+END

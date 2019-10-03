@@ -1,0 +1,8 @@
+chord.main.class=dacapo.bloat.Main
+chord.class.path=data;../../shared/dacapo-2006-10-MR2/classes;classes;jar/bloat.jar
+chord.src.path=adaptor;../../shared/dacapo-2006-10-MR2/src;original/bloat-1.0/src/
+chord.run.ids=0
+chord.args.0=tiny
+chord.args.1=small
+chord.args.2=default
+chord.args.3=large

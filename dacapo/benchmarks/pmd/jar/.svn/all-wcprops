@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/68/trunk/dacapo/benchmarks/pmd/jar
+END
+junit-3.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/16/trunk/dacapo/benchmarks/pmd/jar/junit-3.8.1.jar
+END
+asm-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/16/trunk/dacapo/benchmarks/pmd/jar/asm-3.1.jar
+END
+jaxen-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/16/trunk/dacapo/benchmarks/pmd/jar/jaxen-1.1.1.jar
+END
+ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/68/trunk/dacapo/benchmarks/pmd/jar/ant.jar
+END
+pmd-4.2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/16/trunk/dacapo/benchmarks/pmd/jar/pmd-4.2.5.jar
+END

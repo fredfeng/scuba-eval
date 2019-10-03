@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/115/trunk/tsp/src
+END
+Tsp.java
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/115/trunk/tsp/src/Tsp.java
+END
+TspSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/73/trunk/tsp/src/TspSolver.java
+END
+TourElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/73/trunk/tsp/src/TourElement.java
+END
+PrioQElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/73/trunk/tsp/src/PrioQElement.java
+END

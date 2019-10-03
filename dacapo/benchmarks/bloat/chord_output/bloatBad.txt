@@ -1,0 +1,16 @@
+BAD...108 <clinit>:()V@java.util.JapaneseImperialCalendar
+BAD...254 <clinit>:()V@java.lang.Integer
+BAD...1261 <clinit>:()V@java.lang.CharacterData00
+BAD...461 <clinit>:()V@java.math.BigDecimal
+BAD...111 <clinit>:()V@java.text.SimpleDateFormat
+BAD...166 applyPattern:(Ljava/lang/String;Z)V@java.text.DecimalFormat
+BAD...174 computeFields:(II)I@java.util.GregorianCalendar
+BAD...580 <clinit>:()V@java.math.BigInteger
+BAD...413 subformat:(Ljava/lang/StringBuffer;Ljava/text/Format$FieldDelegate;ZZIIII)Ljava/lang/StringBuffer;@java.text.DecimalFormat
+BAD...328 format:(Ljava/math/BigDecimal;Ljava/lang/StringBuffer;Ljava/text/Format$FieldDelegate;)Ljava/lang/StringBuffer;@java.text.DecimalFormat
+BAD...355 format:(Ljava/math/BigInteger;Ljava/lang/StringBuffer;Ljava/text/Format$FieldDelegate;Z)Ljava/lang/StringBuffer;@java.text.DecimalFormat
+BAD...382 format:(JLjava/lang/StringBuffer;Ljava/text/Format$FieldDelegate;)Ljava/lang/StringBuffer;@java.text.DecimalFormat
+BAD...290 format:(Ljava/math/BigDecimal;Ljava/lang/StringBuffer;Ljava/text/FieldPosition;)Ljava/lang/StringBuffer;@java.text.DecimalFormat
+BAD...294 format:(Ljava/math/BigInteger;Ljava/lang/StringBuffer;Ljava/text/FieldPosition;)Ljava/lang/StringBuffer;@java.text.DecimalFormat
+BAD...102 computeTime:()V@java.util.GregorianCalendar
+BAD...119 computeTime:()V@java.util.GregorianCalendar

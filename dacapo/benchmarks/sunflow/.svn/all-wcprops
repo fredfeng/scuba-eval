@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/213/trunk/dacapo/benchmarks/sunflow
+END
+chord.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/168/trunk/dacapo/benchmarks/sunflow/chord.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/78/trunk/dacapo/benchmarks/sunflow/build.xml
+END
+methods.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/141/trunk/dacapo/benchmarks/sunflow/methods.txt
+END
+reflect.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/141/trunk/dacapo/benchmarks/sunflow/reflect.txt
+END
+generic_typestatespec.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/141/trunk/dacapo/benchmarks/sunflow/generic_typestatespec.txt
+END

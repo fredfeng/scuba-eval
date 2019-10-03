@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/trunk/ftp/lib/src/commons-logging-1.0.3/org/apache/commons/logging
+END
+LogConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/73/trunk/ftp/lib/src/commons-logging-1.0.3/org/apache/commons/logging/LogConfigurationException.java
+END
+LogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/73/trunk/ftp/lib/src/commons-logging-1.0.3/org/apache/commons/logging/LogFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/73/trunk/ftp/lib/src/commons-logging-1.0.3/org/apache/commons/logging/package.html
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/73/trunk/ftp/lib/src/commons-logging-1.0.3/org/apache/commons/logging/Log.java
+END
+LogSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/73/trunk/ftp/lib/src/commons-logging-1.0.3/org/apache/commons/logging/LogSource.java
+END

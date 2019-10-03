@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver
+END
+ConnectionManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/ConnectionManagerImpl.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/Command.java
+END
+DataConnectionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/DataConnectionConfig.java
+END
+FtpServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/FtpServer.java
+END
+FtpConfigImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/FtpConfigImpl.java
+END
+FtpletContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/FtpletContainer.java
+END
+FtpDataConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/FtpDataConnection.java
+END
+FtpLogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/FtpLogFactory.java
+END
+FtpRequestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/FtpRequestImpl.java
+END
+FtpStatisticsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/FtpStatisticsImpl.java
+END
+RequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/RequestHandler.java
+END
+FtpWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/FtpWriter.java
+END
+DirectoryLister.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/trunk/ftp/src/org/apache/ftpserver/DirectoryLister.java
+END

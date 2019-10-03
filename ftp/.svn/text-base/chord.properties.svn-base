@@ -1,0 +1,6 @@
+chord.main.class=org.apache.ftpserver.commandline.CommandLine
+chord.class.path=../classes/:../lib/commons-logging-1.0.3.jar:../lib/log4j-1.2.12.jar
+chord.src.path=../src:../lib/src/commons-logging-1.0.3
+chord.out=log.txt
+chord.err=log.txt
+chord.serial.file=program.ser

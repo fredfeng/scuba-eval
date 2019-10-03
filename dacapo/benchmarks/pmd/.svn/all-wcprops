@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/213/trunk/dacapo/benchmarks/pmd
+END
+chord.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/168/trunk/dacapo/benchmarks/pmd/chord.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/47/trunk/dacapo/benchmarks/pmd/build.xml
+END
+methods.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/141/trunk/dacapo/benchmarks/pmd/methods.txt
+END
+reflect.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/141/trunk/dacapo/benchmarks/pmd/reflect.txt
+END
+generic_typestatespec.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/141/trunk/dacapo/benchmarks/pmd/generic_typestatespec.txt
+END
